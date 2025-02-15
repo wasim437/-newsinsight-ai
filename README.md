@@ -10,5 +10,12 @@ NewsInsight is an AI-powered tool that helps users analyze and retrieve key info
 
 ## 🔹 Installation & Usage  
 1️⃣ Install dependencies:  
-```bash
 pip install -r requirements.txt
+2️⃣ Run the app:
+pip install -r requirements.txt
+streamlit run my_app.py
+3️⃣ Enter news article URLs and ask questions!
+
+🔹 Tech Stack
+Python, Streamlit, LangChain, FAISS, Hugging Face Embeddings
+
